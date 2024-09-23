@@ -37,8 +37,9 @@ assign LED1 = SW1;
 assign LED2 = ~SW2;
 
 endmodule
+```
 
-Video Tutorial de Instalación:
+## Video Tutorial de Instalación:
 
 [![Tutorial de Instalación del Software Quartus Prime Lite](https://img.youtube.com/vi/yYL05eP5mT0/0.jpg)](https://www.youtube.com/watch?v=yYL05eP5mT0)
 
