@@ -1,0 +1,15 @@
+|hola_mundo
+SW1 => LED1.DATAIN
+SW2 => LED2.DATAIN
+LED0 <= <VCC>
+LED1 <= SW1.DB_MAX_OUTPUT_PORT_TYPE
+LED2 <= SW2.DB_MAX_OUTPUT_PORT_TYPE
+LED[3] <= <GND>
+LED[4] <= <GND>
+LED[5] <= <GND>
+LED[6] <= <GND>
+LED[7] <= <GND>
+LED[8] <= <GND>
+LED[9] <= <GND>
+
+
